@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tega Erusiafe
 - 👀 I’m interested in everything Data.
-- 🌱 I’m currently learning Data Analytics for Finance
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data related Projects.
 - 📫 How to reach me tegaerusiafe01@gmail.com
 
